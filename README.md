@@ -21,7 +21,8 @@ Proces instalacji:
 
 Jeżeli coś jest niejasne, lub coś Ci nie wychodzi. Napisz do mnie.
 
-Nie oddawaj energii za darmo.\
+Nie oddawaj energii za darmo.
 
-Jeżeli podoba ci się to co robię i chcesz mnie wesprzeć w dalszych pracach nad projektem.\
+Jeżeli podoba ci się to co robię i chcesz mnie wesprzeć w dalszych pracach nad projektem.
+
 <a href="https://suppi.pl/gibzwein" target="_blank"><img width="165" src="https://suppi.pl/api/widget/button.svg?fill=6457FD&textColor=ffffff"/></a>
