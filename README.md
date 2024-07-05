@@ -1,4 +1,7 @@
 # uBMS_NPS
+
+https://youtu.be/EY7FBSpBl7c
+
 Wyłącznik fotowoltaiki przy cenach ujemnych.\
 Urządzenie, które wyłącza fotowoltaikę lub inne źródło przy przekroczeniu ceny minimalnej sprzedaży.\
 W menu konfiguracyjnym ustawiamy SSID i hasło do sieci WiFi oraz minimalną cenę sprzedaży energii (PLN/MWh).\
